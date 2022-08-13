@@ -15,5 +15,5 @@ I'm a Software Engineer, Content Creator, and Customer Support Engineer who is c
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PreciousOritsederei&show_icons=true&include_all_commits=true&hide_border=true" alt="Precious's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousOritsedere&langs_count=8&layout=compact&hide_border=true" alt="Precious's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PreciousOritsedere&show_icons=true&include_all_commits=true&hide_border=true" alt="Precious's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousOritsedere&langs_count=8&layout=compact&hide_border=true" alt="Precious's GitHub stats" /> |
 | ------------- | ------------- |
