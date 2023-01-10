@@ -7,7 +7,7 @@ I'm a Software Engineer, Content Creator, and Customer Support Engineer who is c
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 🌱 I have learnt Html, Css and Javascript and I’m currently learning Reactjs,Scss, Nextjs.
+- 🌱 My stack is HTML, CSS, JavaScript, ReactJs and Vue.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtorukyjacob@gmail.com.
