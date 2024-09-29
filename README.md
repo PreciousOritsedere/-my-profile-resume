@@ -12,7 +12,7 @@ With a strong foundation in agile methodologies and a commitment to continuous i
 - 🌱 My stack is HTML, CSS, JavaScript, ReactJs, NextJs, VueJs, and Typescript.
 - 😊 I’m looking to help with open-source projects, hackathons, mid-level, and senior opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Mid-level or Senior).
-- 📫 You can contact me by emailing mailtorukyjacob@gmail.com.
+- 📫 You can contact me by emailing mailto:rukyjacob@gmail.com.
 
 ---
 
